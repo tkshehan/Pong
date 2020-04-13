@@ -8,7 +8,7 @@
 
 ## Patch Notes
 
-### 1.0.0.2
+### 0.0.1
 - increase initial ball speed from 50 to 100
 - decrease difficulty increases by half
 - dynamic hitstop when ball hits middle of paddle

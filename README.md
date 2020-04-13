@@ -1,7 +1,3 @@
-layout: page
-title: "Pong"
-permalink: /https://github.com/tkshehan/pong/
-
 [Click Here To Play](https://tkshehan.github.io/pong/pong.html)
 
 ### Controls

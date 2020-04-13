@@ -1,7 +1,3 @@
----
-title: Pong
----
-
 [Click Here To Play](https://tkshehan.github.io/pong/pong.html)
 
 ### Controls

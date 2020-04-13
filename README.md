@@ -2,7 +2,7 @@
 
 ### Controls
 | Controls | Key |
-| ------------- |:-------------:|
+| -------------|:-------------:|
 | Paddle Up  | Up Arrow |
 | Paddle Down | Down Arrow |
 

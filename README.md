@@ -1,5 +1,3 @@
-# Pong
-
 [Play](https://tkshehan.github.io/pong/pong.html)
 
 ## Patch Notes

@@ -1,8 +1,10 @@
 [Click Here To Play](https://tkshehan.github.io/pong/pong.html)
 
 ### Controls
-Paddle Up: Up Arrow
-Paddle Down: Dow
+| Controls | Key |
+| ------------- |:-------------:|
+| Paddle Up  | Up Arrow |
+| Paddle Down | Down Arrow |
 
 ## Patch Notes
 

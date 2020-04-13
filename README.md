@@ -1,6 +1,6 @@
 # Pong
 
-[Play](https://github.com/tkshehan/pong/HTML)
+[Play](https://github.com/tkshehan/pong/index.html)
 
 ## Patch Notes
 

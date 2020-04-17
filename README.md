@@ -8,6 +8,9 @@
 | Paddle Down | Down Arrow | S |
 | Pause | Space | Escape |
 
+### Known Issues
+- when game is loaded in html, it is not always in focus
+
 ## Patch Notes
 
 ### 0.0.2a

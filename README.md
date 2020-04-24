@@ -1,17 +1,26 @@
-[Click Here To Play](https://tkshehan.github.io/pong/pong.html)
+[Click Here To Play](https://tkshehan.github.io/pong/pball.html)
 
 ### Controls
 
-| Action | Key1 | Key2 |
+| Action | Player1 | Player2 |
 | -------------|:-------------:|:-------------:|
 | Paddle Up  | Up Arrow | W |
 | Paddle Down | Down Arrow | S |
 | Pause | Space | Escape |
 
 ### Known Issues
-- when game is loaded in html, it is not always in focus
+- ball can be trapped between paddle and wall
 
 ## Patch Notes
+
+### 0.0.3
+- AI improvements
+- added winstates and 2 player mode
+- added a title menu
+- set maximum and minimum ball speed
+- removed speed increasing on normal bounces
+- tightened angle of travel as speed increases
+- changed hitlag sound effect
 
 ### 0.0.2a
 - added version number

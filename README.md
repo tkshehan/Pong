@@ -1,4 +1,4 @@
-[------Click Here To Play------](https://tkshehan.github.io/pong/pball.html)
+[------Click Here To Play------](https://tkshehan.github.io/pong/pball.html){style=text-align:center}
 
 ### Controls
 

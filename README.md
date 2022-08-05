@@ -17,7 +17,7 @@
 - bugfix: game no longer unpauses when window regains focus
 - AI improvements
 - physics reworked, ball is much easier to control
-- audio and visual queues added for single player
+- audio and visual cues added for single player
 
 ### 0.0.3
 - AI improvements
